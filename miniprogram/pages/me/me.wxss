@@ -1,0 +1,10 @@
+/* pages/me/me.wxss */
+van-cell-group {margin-top: 40rpx; display: block;}
+.cover {
+  height: 260rpx; background-color: #f03d37;
+  text-align: center;
+  padding-top: 20rpx; color: white;
+}
+my-button, van-button {
+  display: block; margin: 10px;
+}

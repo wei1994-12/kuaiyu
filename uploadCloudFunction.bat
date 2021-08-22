@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Tencent\微信web开发者工具\cli.bat" cloud functions deploy --e cloud-2g04z6sv587832f5 --n quickstartFunctions --r --project "D:\code\WEIXIN\day07\demo\xzyycloud" && "C:\Program Files (x86)\Tencent\微信web开发者工具\cli.bat" cloud functions deploy --e cloud2103-7gqlshgv28604f85 --n quickstartFunctions --r --project "D:\code\WEIXIN\day07\demo\xzyycloud" --report
